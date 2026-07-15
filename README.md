@@ -17,25 +17,6 @@
 
 ---
 
-## 🎬 Önizleme
-
-<div align="center">
-<img src="./public/preview-hero.jpg" width="100%" alt="Hero Bölümü Önizleme"/>
-<br/>
-<sub>Hero bölümü — "Bir Millet Uyandı"</sub>
-</div>
-
-<br/>
-
-<div align="center">
-<img src="./public/preview-bridge.jpg" width="100%" alt="Köprü Scroll Önizleme"/>
-<br/>
-<sub>15 Temmuz Şehitler Köprüsü — scroll ile kontrol edilen sinematik kamera efekti</sub>
-</div>
-
-> 🖼️ Görselleri `/public` klasörüne ekleyip yukarıdaki dosya adlarıyla eşleştirmeyi unutma.
-
----
 
 ## ✨ Özellikler
 
@@ -69,7 +50,7 @@
 ## 🛠️ Kurulum
 
 ```bash
-git clone https://github.com/xNewt0/15-temmuz-site.git
+git clone https://github.com/xNewt0/15-Temmuz.git
 cd 15-temmuz-site
 npm install
 npm run dev
