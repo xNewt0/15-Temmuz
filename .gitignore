@@ -1,0 +1,13 @@
+node_modules
+dist
+.DS_Store
+.env
+.env.local
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# raw source media; deploy uses public/kopru1.mp4
+/kopru.mp4
+/kopru1.mp4
